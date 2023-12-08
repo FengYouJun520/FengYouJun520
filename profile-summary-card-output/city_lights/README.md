@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/FengYouJun520/FengYouJun520/master/profile-summary-card-output/city_lights/4-productive-time.svg)
-```
-
-    
